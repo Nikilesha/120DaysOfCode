@@ -55,8 +55,8 @@ INSERT IGNORE INTO Jobs (title, company_id, recruiter_id, location, salary) VALU
 
 
 INSERT IGNORE INTO Job_Applications (user_id, job_id) VALUES
-(1, 1),  -- Nikilesha applies for Software Engineer
-(1, 2);  -- Nikilesha applies for Data Analyst
+(1, 1),  
+(1, 2);  
 
 
 SELECT * FROM Users;
