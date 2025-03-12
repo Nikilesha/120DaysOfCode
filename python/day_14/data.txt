@@ -1,0 +1,5 @@
+Alice is 25 years old and lives in New York. She works as an Engineer.  
+Bob is 30 years old and lives in Los Angeles. He is a Doctor.  
+Charlie, who is 22, lives in Chicago and is an Artist.  
+David, a 28-year-old from Houston, is a Teacher.  
+Emma, 35, resides in Miami and works as a Lawyer.  
